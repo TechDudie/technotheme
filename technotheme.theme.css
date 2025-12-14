@@ -6,13 +6,6 @@
  * @BDEditor technotheme
 */
 
-/* @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css); */
-
-:root {
-    --app-bg: url('https://i.imgur.com/FoCG4Rz.jpeg');
-    --app-blur: 3px;
-}
-
 :root {
     /* APP ELEMENTS */
     --app-bg: url(https://i.imgur.com/FoCG4Rz.jpeg);
