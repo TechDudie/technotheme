@@ -3244,7 +3244,7 @@ body {
     background-color: var(--message-color) !important;
     border-radius: var(--message-radius);
     width: fit-content;
-    max-width: calc(100% - 84px);
+    max-width: calc(100% - 100px);
 }
 
 .c19a557985eb7793-wrapper:not(._5126c0cd07f243a0-groupStart),
